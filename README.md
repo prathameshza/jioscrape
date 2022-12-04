@@ -20,3 +20,8 @@ scrapy crawl jio -O mart.csv
 ```
 
 You can view and modify the source code in /jioscrape/spiders/jiospyder.py
+>It won't work for dynamic websites, for that you will need scrapy-splash setup in your scrapy folder
+
+here is a sample output of our project:
+
+![scrape excel](https://user-images.githubusercontent.com/46810093/205484146-05da6d87-a2ae-4494-8c0c-f29c24b73a64.png)
