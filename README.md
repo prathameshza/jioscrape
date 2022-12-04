@@ -19,4 +19,4 @@ pip install -r requirements.txt
 scrapy crawl jio -O mart.csv 
 ```
 
-You can view and modify the source code in /jioscrape/spiders/jiospyder.py.
+You can view and modify the source code in /jioscrape/spiders/jiospyder.py
