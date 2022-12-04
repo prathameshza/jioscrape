@@ -10,7 +10,7 @@ To start scraping right away type the following commands
 
 ```
 # enter the directory
-scrapy crawl jio -O mart.csv
+cd jioscrape
 
 # To install required dependencies
 pip install -r requirements.txt 
