@@ -1,6 +1,9 @@
 # jioscrape
  
-A web scraping project, which scrapes the data from JioMart website specifically the vegetables and grocery section. 
+A web scraping project, which scrapes the data from JioMart website specifically the vegetables and grocery section.
+![jiomart](https://user-images.githubusercontent.com/46810093/208141610-e005bfab-de7b-45e5-8159-9608bd77393e.png)
+
+
 
 The folder structure of the project:
 
